@@ -1,13 +1,12 @@
 # Unity OpenCV Sword Game App
 
-This is an app developed in `.NET` to function as interface with the Unity OpenCV Sword Game.
+This is an app developed in `.NET` to function as interface with the
+[Unity OpenCV Sword Game](https://github.com/IonelPopJara/opencv-sword-game).
 
 It uses `image processing` and `serial communication` to send data to the main game.
 
-If you want a preview of this game, you can watch this video here.
-
-(TODO: Put the link)
-
+If you want a preview of this game, you can watch this video.
+[I Made a Motion Controlled Game using a Stick](https://youtu.be/l1oq7TMTVK0)
 ## Image Processing
 
 In simple terms, the image processing for this application has 3 steps.
@@ -38,6 +37,6 @@ Once we have a clear tracker image, we can draw a square around the object and s
 
 <p aling='center'><img src='resources\sc-game.png'></p>
 
-For more screenshots and examples, refer to the game project repo. (TODO: Add repo here).
+For more screenshots and examples, refer to the game project repo. 
 
-
+[Unity OpenCV Sword Game](https://github.com/IonelPopJara/opencv-sword-game).
